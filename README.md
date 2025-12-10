@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Les images (chemins relatifs) -->
-  <img src="./logo.png" alt="Logo ENCG" width="120" style="margin-right: 30px; vertical-align: middle;" />
-  <img src="./profil.jpg" alt="Ayoub ENOUIJAI" width="120" style="border-radius: 50%; vertical-align: middle;" />
+  <!-- Les images (Noms corrigés pour correspondre à tes fichiers) -->
+  <img src="./Logo%20ENCG.jpg" alt="Logo ENCG" width="120" style="margin-right: 30px; vertical-align: middle;" />
+  <img src="./Ayoub%20ENOUIJAI.jpg" alt="Ayoub ENOUIJAI" width="120" style="border-radius: 50%; vertical-align: middle;" />
 
   <br><br>
 
@@ -29,8 +29,3 @@
     <a href="https://archive.ics.uci.edu/ml/datasets/heart+disease" target="_blank">UCI Machine Learning Repository (Cleveland)</a>
   </p>
 </div>
-
----
-
-## 📋 Table des Matières
-... (laisse le reste de ton README ici)
